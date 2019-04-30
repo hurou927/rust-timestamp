@@ -1,0 +1,7 @@
+[package]
+name = "time-stamp"
+version = "0.1.0"
+authors = ["hurou"]
+edition = "2018"
+
+[dependencies]
