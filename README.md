@@ -1,6 +1,8 @@
 # TimeStamp 
 
-- Rust
+Rust project
+
+Display time durations.
 
 Example
 
